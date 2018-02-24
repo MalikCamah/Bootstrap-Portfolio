@@ -263,3 +263,70 @@ label,
 input {
   display: block;
 }
+
+
+
+
+
+
+
+
+#reverse main {
+  padding-right: 100px;
+  padding-left: 100px;
+
+}
+#reverse
+h2,
+h3 {
+  color:#4aaaa5;
+  padding:0 0 5px 0;
+}
+
+#reverse a {
+  cursor:pointer;
+}
+
+#reverse .myheader {
+  margin:0 0 50px 0 ;
+}
+
+#reverse .color {
+  background-color: #666666;
+  border-top:8px solid #4aaaa5;
+  color:#fff;
+}
+
+
+#reverse blockquote ~ p {
+  font-style: italic;
+}
+
+
+#reverse .custom2 {
+  font-size: 18px;
+}
+
+#reverse .custom1 {
+  padding-right:20px;
+}
+
+#reverse hr {
+  border-color: #ccc;
+  width: 90%;
+  margin-top: 0px;
+}
+
+#reverse .imageresize {
+width:50px;
+height: 50px;
+}
+
+#reverse .expandArea {
+  width: 600px;
+  height: 250px;
+}
+
+#reverse label {
+  margin:10px 0 5px 0;
+}
