@@ -260,10 +260,11 @@ input[type="submit"] {
   margin:10px 0 20px 0;
 }
 
-input[type="text"] {
+/* input[type="text"] {
   width: 600px;
-}
+} */
 
+textarea,
 label,
 input {
   display: block;
